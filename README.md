@@ -1,14 +1,16 @@
 # MongoDB Security
 
-## Authentication
+## Topics
+
+### Authentication
 
 Authentication mechanisms and methods, configuring MongoDB authentication
 
-## Authorization and Encryption
+### Authorization and Encryption
 
 MongoDB's authorization model, creating users and roles, enabling encryption at rest and in transit.
 
-## Auditing and Best Practices
+### Auditing and Best Practices
 
 Auditing with MongoDB, best practice checklists
 
